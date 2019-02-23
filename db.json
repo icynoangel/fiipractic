@@ -1,5 +1,7 @@
 {
- "firstName": "John",
- "lastName": "Williams",
- "age": "28"
+ "user": {
+   "firstName": "John",
+   "lastName": "Williams",
+   "age": "28"
+ }
 }
